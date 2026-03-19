@@ -1,2 +1,2 @@
 # Weather-dashboard
-Simple CLI based weather dashboard project to learn Numpy.
+Simple CLI based weather dashboard project to learn Json.
